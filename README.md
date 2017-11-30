@@ -14,3 +14,6 @@ Goals and Objectives
 • Reliable   and   assured   information by authentic users which are validated via their official university ID’s.
 • Managed content by moderators/admin to avoid spam and trivial posts.  
 • Provides a medium to network, socialize and collaborate   ideas. 
+
+Technologies Included:
+Axure
